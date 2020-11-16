@@ -137,5 +137,4 @@ namespace NSdataType {
             return type{};
         }
     };
-
 }
